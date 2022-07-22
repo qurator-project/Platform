@@ -69,7 +69,7 @@ On some READMEs, you may see small images that convey metadata, such as whether 
 ## Demonstration
 In this section we are going to include a video screencast of a demonstrator build upon an existing tool [Alleph](http://alleph.com/).
 
-https://gitlab.com/qurator-platform/dfki/Platform/-/blob/main/DemoVideo.mp4
+https://github.com/qurator-project/Platform/blob/main/DemoVideo_Small.mp4
 
 ## Installation
 In order to install all the componens of the platform and make it run you only need to install [Docker](www.docker.com). All the components (of the platform) have been developed as self-contained docker containers, therefore they do not need specific installation instructions. In case it is needed, these instructions are provided in the individual repositories of the components.
